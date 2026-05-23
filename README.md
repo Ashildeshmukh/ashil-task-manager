@@ -62,9 +62,6 @@ A modern task manager web application built with HTML, CSS, and JavaScript, feat
 - **CSS**: For styling the application, including Bootstrap and Tailwind CSS.
 - **JavaScript**: For dynamic functionalities such as adding, editing, and deleting tasks.
 
-## Screenshots
-![Task Manager Screenshot](https://i.ibb.co/nwkvsGB/Screenshot-199.png)
-> A screenshot showing the main interface of the Task Manager application.
 
 ## Animated Gradient Header
 - The header features an animated gradient that transitions smoothly between colors, providing a visually appealing effect.
@@ -80,7 +77,7 @@ task-manager/
 
 ## Credits
 - Icons and design elements are created using [Bootstrap](https://getbootstrap.com) and [Tailwind CSS](https://tailwindcss.com).
-- User @bhargavtz for the original concept and project structure.
+- User @ashildeshmukh for the original concept and project structure.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
